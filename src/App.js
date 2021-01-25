@@ -61,6 +61,7 @@ const App = () => {
         amount={toAmount}
         onChangeAmount={handleToAmountChange}
       />
+          <h3><a href="https://github.com/jatinhemnani01/currency-converter-react">Full Code On Github</a></h3>
     </>
   );
 };
